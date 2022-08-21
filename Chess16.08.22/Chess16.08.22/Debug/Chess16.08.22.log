@@ -1,0 +1,3 @@
+﻿  ChessField.cpp
+C:\Users\Markysha\source\repos\Chess16.08.22\Chess16.08.22\ChessField.cpp(107): warning C4715: 'ChessField::Step': not all control paths return a value
+  Chess16.08.22.vcxproj -> C:\Users\Markysha\source\repos\Chess16.08.22\Debug\Chess16.08.22.exe
